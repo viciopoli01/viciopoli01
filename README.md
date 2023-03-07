@@ -2,7 +2,10 @@
 
 ### 🔭 I’m currently working on SLAM/VIO
 
-[![tech-stack.tools](https://svg.bookmark.style/api?url=https://github.com/jpl-x/x_multi_agent_ros&mode=dark&style=horizontal)](https://github.com/jpl-x/x_multi_agent_ros)
+[![tech-stack.tools](https://svg.bookmark.style/api?url=https://github.com/jpl-x/x_multi_agent_ros&mode=dark&style=horizontal)](https://github.com/jpl-x/x_multi_agent)
+
+
+### 📝 Publications:
 
 ### 📫 How to reach me:
 
