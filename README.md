@@ -13,10 +13,11 @@
 
 <a href="mailto:polivicio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/vincenzo-polizzi-602089146/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://polivi.iobii.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
+<!--
 ### 📈 Stats
 ![viciopoli's github stats](https://github-readme-stats.vercel.app/api?username=viciopoli01&show_icons=true&theme=prussian)
 
-<!--
+
 **viciopoli01/viciopoli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
