@@ -2,6 +2,8 @@
 
 ### 🔭 I’m currently working on SLAM/VIO
 
+[![tech-stack.tools](https://svg.bookmark.style/api?url=https://github.com/utiasSTARS/REALM&mode=dark&style=horizontal)](https://github.com/utiasSTARS/REALM)
+
 [![tech-stack.tools](https://svg.bookmark.style/api?url=https://github.com/utiasSTARS/VibES&mode=dark&style=horizontal)](https://github.com/utiasSTARS/VibES)
 
 [![tech-stack.tools](https://svg.bookmark.style/api?url=https://github.com/utiasSTARS/FaVoR&mode=dark&style=horizontal)](https://github.com/utiasSTARS/FaVoR)
